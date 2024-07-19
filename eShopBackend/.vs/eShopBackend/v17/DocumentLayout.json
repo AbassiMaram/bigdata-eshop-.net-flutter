@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenovo\\source\\repos\\eShopBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1441307-E2D3-4963-BA23-9F48909A1726}|eShopBackend\\eShopBackend.csproj|c:\\users\\lenovo\\source\\repos\\eshopbackend\\eshopbackend\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1441307-E2D3-4963-BA23-9F48909A1726}|eShopBackend\\eShopBackend.csproj|solutionrelative:eshopbackend\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1441307-E2D3-4963-BA23-9F48909A1726}|eShopBackend\\eShopBackend.csproj|c:\\users\\lenovo\\source\\repos\\eshopbackend\\eshopbackend\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1441307-E2D3-4963-BA23-9F48909A1726}|eShopBackend\\eShopBackend.csproj|solutionrelative:eshopbackend\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1441307-E2D3-4963-BA23-9F48909A1726}|eShopBackend\\eShopBackend.csproj|c:\\users\\lenovo\\source\\repos\\eshopbackend\\eshopbackend\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1441307-E2D3-4963-BA23-9F48909A1726}|eShopBackend\\eShopBackend.csproj|solutionrelative:eshopbackend\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1441307-E2D3-4963-BA23-9F48909A1726}|eShopBackend\\eShopBackend.csproj|c:\\users\\lenovo\\source\\repos\\eshopbackend\\eshopbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1441307-E2D3-4963-BA23-9F48909A1726}|eShopBackend\\eShopBackend.csproj|solutionrelative:eshopbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1441307-E2D3-4963-BA23-9F48909A1726}|eShopBackend\\eShopBackend.csproj|c:\\users\\lenovo\\source\\repos\\eshopbackend\\eshopbackend\\migrations\\20240628084940_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1441307-E2D3-4963-BA23-9F48909A1726}|eShopBackend\\eShopBackend.csproj|solutionrelative:eshopbackend\\migrations\\20240628084940_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1441307-E2D3-4963-BA23-9F48909A1726}|eShopBackend\\eShopBackend.csproj|c:\\users\\lenovo\\source\\repos\\eshopbackend\\eshopbackend\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1441307-E2D3-4963-BA23-9F48909A1726}|eShopBackend\\eShopBackend.csproj|solutionrelative:eshopbackend\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1441307-E2D3-4963-BA23-9F48909A1726}|eShopBackend\\eShopBackend.csproj|c:\\users\\lenovo\\source\\repos\\eshopbackend\\eshopbackend\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1441307-E2D3-4963-BA23-9F48909A1726}|eShopBackend\\eShopBackend.csproj|solutionrelative:eshopbackend\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1441307-E2D3-4963-BA23-9F48909A1726}|eShopBackend\\eShopBackend.csproj|c:\\users\\lenovo\\source\\repos\\eshopbackend\\eshopbackend\\models\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1441307-E2D3-4963-BA23-9F48909A1726}|eShopBackend\\eShopBackend.csproj|solutionrelative:eshopbackend\\models\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1441307-E2D3-4963-BA23-9F48909A1726}|eShopBackend\\eShopBackend.csproj|c:\\users\\lenovo\\source\\repos\\eshopbackend\\eshopbackend\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1441307-E2D3-4963-BA23-9F48909A1726}|eShopBackend\\eShopBackend.csproj|solutionrelative:eshopbackend\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1441307-E2D3-4963-BA23-9F48909A1726}|eShopBackend\\eShopBackend.csproj|c:\\users\\lenovo\\source\\repos\\eshopbackend\\eshopbackend\\data\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1441307-E2D3-4963-BA23-9F48909A1726}|eShopBackend\\eShopBackend.csproj|solutionrelative:eshopbackend\\data\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PaymentsController.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\eShopBackend\\eShopBackend\\Controllers\\PaymentsController.cs",
+              "RelativeDocumentMoniker": "eShopBackend\\Controllers\\PaymentsController.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\eShopBackend\\eShopBackend\\Controllers\\PaymentsController.cs",
+              "RelativeToolTip": "eShopBackend\\Controllers\\PaymentsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T13:58:24.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240628084940_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\eShopBackend\\eShopBackend\\Migrations\\20240628084940_InitialCreate.cs",
+              "RelativeDocumentMoniker": "eShopBackend\\Migrations\\20240628084940_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\eShopBackend\\eShopBackend\\Migrations\\20240628084940_InitialCreate.cs",
+              "RelativeToolTip": "eShopBackend\\Migrations\\20240628084940_InitialCreate.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAADwvzsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T08:49:40.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\eShopBackend\\eShopBackend\\Program.cs",
+              "RelativeDocumentMoniker": "eShopBackend\\Program.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\eShopBackend\\eShopBackend\\Program.cs",
+              "RelativeToolTip": "eShopBackend\\Program.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAjwD0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T11:51:58.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\eShopBackend\\eShopBackend\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "eShopBackend\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\eShopBackend\\eShopBackend\\Models\\Order.cs",
+              "RelativeToolTip": "eShopBackend\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAowBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T15:33:58.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\eShopBackend\\eShopBackend\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "eShopBackend\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\eShopBackend\\eShopBackend\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "eShopBackend\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T15:37:09.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\eShopBackend\\eShopBackend\\Data\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "eShopBackend\\Data\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\eShopBackend\\eShopBackend\\Data\\Entities\\Product.cs",
+              "RelativeToolTip": "eShopBackend\\Data\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T11:50:37.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\eShopBackend\\eShopBackend\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "eShopBackend\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\eShopBackend\\eShopBackend\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "eShopBackend\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAJsAAAAAAAAAAAAmwAgBAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T22:27:03.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\eShopBackend\\eShopBackend\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "eShopBackend\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\eShopBackend\\eShopBackend\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "eShopBackend\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T15:34:48.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\eShopBackend\\eShopBackend\\Models\\ProductDto.cs",
+              "RelativeDocumentMoniker": "eShopBackend\\Models\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\eShopBackend\\eShopBackend\\Models\\ProductDto.cs",
+              "RelativeToolTip": "eShopBackend\\Models\\ProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T08:27:51.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\eShopBackend\\eShopBackend\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "eShopBackend\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\eShopBackend\\eShopBackend\\Models\\OrderItem.cs",
+              "RelativeToolTip": "eShopBackend\\Models\\OrderItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T08:41:10.325Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
